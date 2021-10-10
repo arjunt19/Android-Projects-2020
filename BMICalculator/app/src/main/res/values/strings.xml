@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BMI-Calculator</string>
+    <string name="height_inches">Height (inches)</string>
+    <string name="weight">Weight (lbs)</string>
+    <string name="age">Age</string>
+    <string name="button_calculate">Calculate!</string>
+    <string name="label_bmi">Your BMI is:</string>
+</resources>

@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Implicit Intents</string>
+    <string name="default_website">https://developer.android.com</string>
+    <string name="button_website">Open Website</string>
+    <string name="share_default">Brodies gonna go to heaven</string>
+    <string name="share_button">Share This Text</string>
+    <string name="location_button">Open Location</string>
+    <string name="wesbite_default">Name</string>
+    <string name="location_default">Golden Gate Bridge</string>
+    <string name="button_photo">Take a photo</string>
+</resources>
